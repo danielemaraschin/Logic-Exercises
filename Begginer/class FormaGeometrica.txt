@@ -1,0 +1,5 @@
+class FormaGeometrica
+filhos Bola, Triangulo, Quadrado e Galinha
+
+FormaGeometricaFactory
+
